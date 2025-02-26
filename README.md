@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Martin Bozhinov!
 
-🎓 First-year Computer Science student / New Bulgarian University 
+🎓 First-year Computer Science student / New Bulgarian University
+
 💻 Passionate about **Java** & **C++**    
 
 ## 🚀 About Me
