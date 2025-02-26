@@ -1,8 +1,7 @@
-# 👋 Hey there, I'm Martin Bozhinov!
+# 👋 Hi, I'm Martin Bozhinov!
 
-🎓 First-year Computer Science student  
-💻 Passionate about **Java** & **C++**  
-🎢 Adrenaline addict – if it goes fast, I'm in!  
+🎓 First-year Computer Science student / New Bulgarian University 
+💻 Passionate about **Java** & **C++**    
 
 ## 🚀 About Me
 - Always eager to learn new technologies and improve my coding skills  
