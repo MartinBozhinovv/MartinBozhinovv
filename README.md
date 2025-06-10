@@ -10,9 +10,8 @@
 - Open to collaboration on exciting projects!
 
   ## 📫 Connect with Me
-<a href="www.linkedin.com/in/martin-bozhinov1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martibozhinov7@gmail.com)
+<a href="https://www.linkedin.com/in/martin-bozhinov1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 ## 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
