@@ -39,5 +39,4 @@ Java application for managing inventory, sales, cashiers, and receipts.
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martibozhinov7@gmail.com)
-
-LinkedIn: https://www.linkedin.com/in/martin-bozhinov1
+<a href="https://www.linkedin.com/in/martin-bozhinov1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
